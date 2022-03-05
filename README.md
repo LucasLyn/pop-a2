@@ -9,7 +9,7 @@ Don't be stupid...
 
 ## Kode
 
-Kode compiles med fsharpc og køres derefter med mono;
+The code is compiled with fsharpc and run with mono;
 
 	$ fsharpc 2i1.fsx
 	$ mono 2i1.exe
