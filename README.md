@@ -1,7 +1,7 @@
 # PoP - Assignment 2
 PoP - 2i
 
-Don't be stupid...
+An assignment about saving and assigning variables. In this case, the task was to create two strings that had the values of different parts of another string.
 
 
 # PoP - 2i
